@@ -2,6 +2,8 @@
   "name": "next-template",
   "version": "0.1.0",
   "private": true,
+  "main": "./lib/index.ts",
+  "module": "./lib/index.ts",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
